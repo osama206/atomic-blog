@@ -114,7 +114,7 @@ Generates random posts using the `faker` library.
 
 ### SlowComponent and Counter
 
-Demonstrates how performance issues can arise with slow components and how to manage them using memoization and optimization techniques.
+Demonstrates how performance issues can arise with slow components and how to manage them using memoization and optimization techniques
 
 ## Credits
 
